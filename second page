@@ -8,4 +8,10 @@
 <body>
     <h1> Main Heading Two</h1>
 </body>    
+
+<footer> 
+    <nav>
+        <a href="index.html">Main Page</a>
+    </nav>
+</footer>
 </html>
